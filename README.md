@@ -18,7 +18,8 @@ This is a project assignment that assigns a secret number and allows the user a 
 git clone https://github.com/abigailnkimani-cyber/week2_assignment.git
 ```
 2. Run the app
-``` python guess_numbers.py
+```bash
+python guess_numbers.py
 ```
 
 ## License 
